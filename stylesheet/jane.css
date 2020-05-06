@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Assistant:400,700|Playfair+Display&display=swap');
 
 html, body {
-	background-color: #C5EDAC;
-	color: #333232;
+	background-color: #505168;
+	color: #EAEFD3;
 	font-family: 'Assistant', sans-serif;
 }
 
@@ -14,9 +14,9 @@ body {
 }
 
 h2 {
-	color: #9395D3;
+	color: #B3C0A4;
 	text-align: left;
-	font-size: 24px;
+	font-size: 36px;
 	font-family: 'Playfair Display', serif;
 }
 
@@ -27,17 +27,17 @@ h3 {
 }
 
 a {
-	color: #9395D3;
+	color: #B3C0A4;
 	text-decoration: none;
 	border-bottom: 1px solid;
 }
 
 a:hover {
-	color: #B3B7EE;
+	color: #BAC6AC;
 	text-decoration: line-through;
 	border-bottom: none;
 }
 
 b, strong {
-    color:#9395D3;
+    color:#E3DAB1;
 }
