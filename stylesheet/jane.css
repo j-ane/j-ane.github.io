@@ -7,7 +7,7 @@ html, body {
 }
 
 body {
-	max-width: 600px;
+	max-width: 800px;
 	margin: auto;
 	padding: 3em;
 	line-height: 1.5;
@@ -16,7 +16,7 @@ body {
 h2 {
 	color: #FFFCF7;
 	text-align: left;
-	font-size: 28px;
+	font-size: 24px;
 	font-family: 'Playfair Display', serif;
 }
 
